@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
+  <img src="/images/증명사진-오지용.png" alt="Jiyong Oh (오지용)" width="600"/>
   <br>  
   <p align="center">
     <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
