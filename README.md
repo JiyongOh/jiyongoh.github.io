@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <br>
   <img src="/images/증명사진-오지용.png" alt="Jiyong Oh (오지용)" width="600"/>
@@ -8,8 +9,8 @@
     <i>Would you be interested in <a href="https://www.producthunt.com/upcoming/reverie-pro">Reverie Pro</a>?</i>
   </p> -->
 </div>
-
 ---
+-->
 Senior Researcher,
 
 Robotics-IT Convergence Research Section,
