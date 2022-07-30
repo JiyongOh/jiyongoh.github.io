@@ -37,6 +37,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 # Table of Contents
   - [Career](#career)
+    - [Research](#Research)
+    - [Lecture](#Lecture)
   - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
     - [2. Customize and view your site](#2-customize-and-view-your-site)
