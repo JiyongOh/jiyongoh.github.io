@@ -2,11 +2,11 @@
   <br>
   <img src="/images/증명사진-오지용.png" alt="Jiyong Oh (오지용)" width="600"/>
   <br>  
-  <p align="center">
+  <!-- <p align="center">
     <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
     •
     <i>Would you be interested in <a href="https://www.producthunt.com/upcoming/reverie-pro">Reverie Pro</a>?</i>
-  </p>
+  </p> -->
 </div>
 
 ---
