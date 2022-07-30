@@ -79,7 +79,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 ## Publications
 
-### International Journal
+### International Journals
 - Daewoong Cha, Sohee Jeong, Minwoo Yoo, Jiyong Oh, and Dong Seog Han, "[Multi-Input Deep Learning based FMCW Radar Signal Classification](https://www.mdpi.com/2079-9292/10/10/1144)," Electronics 2021, 10(10), 1144.
 - Jiyong Oh, Sung Joon Son, Sangkuk Lee, Ji-Won Kwon, and Nojun Kwak, "[Online recognition of handwritten music symbols](https://link.springer.com/article/10.1007/s10032-017-0281-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)," International Journal on Document Analysis and Recognition, vol. 20, issue 2, pp. 79-89, June 2017.
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, Jiyong Oh, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "[Team SNU's Control Strategies for Enhancing a Robot's Capability: Lessons from the 2015 DARPA Robotics Challenge Finals](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21678)," Journal of Field Robotics, vol. 34, issue 2, pp. 359-380, March 2017.
@@ -89,6 +89,17 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Sang-Il Choi, Jiyong Oh, Chong-Ho Choi, and Chunghoon Kim, "[Input variable selection for feature extraction in classification problems](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003008)," Signal Processing, vol. 92, issue 3, pp. 636-648, March 2012.
 - Jiyong Oh, Dae Chul Jung, and Chong-Ho Choi, "[Locating the Reference Point of Symphysis Pubis in Axial CT Images](https://link.springer.com/article/10.1007/s10278-011-9384-z)," Journal of Digital Imaging, vol. 25, issue 1, pp. 110-120, Feb. 2012.
 - Nojun Kwak and Jiyong Oh, "[Feature extraction for one-class classification problems: Enhancements to biased discriminant analysis](https://www.sciencedirect.com/science/article/abs/pii/S0031320308002781)," Pattern Recognition, vol. 42, issue 1, pp. 17-26, Jan. 2009.
+
+
+### International Conferences
+\\<!-- - Jiyong Oh, Joon-Goo Lee, Hea-Min Lee, Seung-Woo Nam, Man-Soo Shin, and Sangjoon Choi, "A Person-Following Robot Using Siamese Network-Based RGBD Tracking," 21th International Conference on Control, Automation and Systems (ICCAS 2021), Jeju, Korea, Oct. 12-15, 2021. -->
+- Jiyong Oh, Kil-Taek Lim, and Yun-Su Chung, "[TrajNet: An Efficient and Effective Neural Network for Vehicle Trajectory Classification](https://www.scitepress.org/PublicationsDetail.aspx?ID=Rf72zoxRUjs=&t=1)," 10th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2021), Vinenna, Austria, Feb. 5 (4-6), 2021.
+- Jiyong Oh, Ki-Seok Kim, Miryong Park, and Sungho Kim, "[A Comparative Study on Camera-Radar Calibration Methods](https://ieeexplore.ieee.org/document/8581329)," 15th International Conference on Control, Automation, Robotics and Vision (ICARCV 2018), Singapore, Nov. 20 (18-21), 2018.
+- Sangkuk Lee, Sung Joon Son, Jiyong Oh, and Nojun Kwak, "[Handwritten Music Symbol Classification Using Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7885856)," 2016 International Conference on Information Science and Security (ICISS), Pattaya, Thailand, Dec. 21 (19-22), 2016.
+- Myunggi Lee, Hyeogin Lee, Jiyong Oh, Hak Jong Lee, Seung Hyup Kim, and Nojun Kwak, "[Unregistered Bosniak Classification with Multi-phase Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-46681-1_3)," 23rd International Conference on Neural Information Processing (ICONIP), Kyoto, Japan, Oct. 20 (16-21), 2016.
+- Jiyong Oh, Chong-Ho Choi, and Nojun Kwak, "[MAP Classifier with BDA Features](https://ieeexplore.ieee.org/document/5358603?tp=&arnumber=5358603&queryText%3DMAP%20Classifier%20with%20BDA%20Features=)," 6th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD), Tianjin, China, Aug. 2009.
+- Jiyong Oh, Chong-Ho Choi, and Chunghoon Kim, "[Kernel Discriminant Analysis Using Composite Vectors](https://ieeexplore.ieee.org/document/4634144?tp=&arnumber=4634144&queryText%3DKernel%20Discriminant%20Analysis%20Using%20Composite%20Vectors=)," International Joint Conference on Neural Networks (IJCNN), Hong Kong, June 2008.
+- Chunghoon Kim, Jiyong Oh, and Chong-Ho Choi, "[Combined Subspace Method Using Global and Local Features for Face Recognition](https://ieeexplore.ieee.org/document/1556212?tp=&arnumber=1556212&queryText%3DCombined%20Subspace%20Method%20Using%20Global%20and%20Local%20Features%20for%20Face%20Recognition=)," International Joint Conference on Neural Networks (IJCNN), Montreal, Canada, Aug. 2005.
 
 ## Features overview
 
