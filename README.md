@@ -80,7 +80,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 ## Publications
 
 ### International Journal
-- Daewoong Cha, Sohee Jeong, Minwoo Yoo, Jiyong Oh, and Dong Seog Han, "Multi-Input Deep Learning based FMCW Radar Signal Classification(https://www.mdpi.com/2079-9292/10/10/1144)," Electronics 2021, 10(10), 1144.
+- Daewoong Cha, Sohee Jeong, Minwoo Yoo, Jiyong Oh, and Dong Seog Han, "[Multi-Input Deep Learning based FMCW Radar Signal Classification](https://www.mdpi.com/2079-9292/10/10/1144)," Electronics 2021, 10(10), 1144.
 - Jiyong Oh, Sung Joon Son, Sangkuk Lee, Ji-Won Kwon, and Nojun Kwak, "Online recognition of handwritten music symbols," International Journal on Document Analysis and Recognition, vol. 20, issue 2, pp. 79-89, June 2017.
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, Jiyong Oh, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "Team SNU's Control Strategies for Enhancing a Robot's Capability: Lessons from the 2015 DARPA Robotics Challenge Finals," Journal of Field Robotics, vol. 34, issue 2, pp. 359-380, March 2017.
 - Jiyong Oh and Nojun Kwak, "Generalized mean for robust principal component analysis," Pattern Recognition, vol. 54, pp. 116-127, June 2016. [MATLAB code]
