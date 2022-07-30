@@ -10,6 +10,13 @@
 </div>
 
 ---
+Senior Researcher,
+Robotics-IT Convergence Research Section
+Daegu-Gyeongbuk Research Center,
+Electronics and Telecommunications Research Institute (ETRI).
+
+e-mail: jiyongoh@etri.re.kr
+address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Korea.
 
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
