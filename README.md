@@ -49,7 +49,9 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
   - [The name?](#the-name)
   - [License](#license)
 
+
 ## Career
+
 
 ### Research
 - 2015.03.15-2016.05.31, BK Assistant Professor (Research Fellow), Seoul National University, Korea.
@@ -57,8 +59,21 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - 2013.04.01-2013.08.31, Post-Doc. (Research Fellow), Ajou University, Korea.
 - 2012.03.01-2013.02.28, Post-Doc. (Research Fellow), Sungkyunkwan University, Korea.
 
+
 ### Lecture
 - 2015.09.-2015.12., Special Issues on Mobile Systems, Dankook University, Korea.
+
+
+## Education
+- 2006.03.01-2012.02.24, Ph.D., Seoul National University.
+- 2004.03.01-2006.02.24, M.S., Seoul National University.
+- 1997.03.01-2004.02.20, B.S., Ajou University.
+- 1994.03.02-1997.02.05, Anyang High School.
+
+
+## Research Interests
+- Visual Object Tracking, Robot relocalization, 
+- Robot Perception, Machine Learning, Computer Vision and Their Applications
 
 
 ## Features overview
