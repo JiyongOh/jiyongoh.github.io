@@ -10,6 +10,8 @@
   </p> 
 </div> -->
 
+# Jiyong Oh (오지용)
+
 Senior Researcher,
 
 Robotics-IT Convergence Research Section,
