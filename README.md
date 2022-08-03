@@ -36,7 +36,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 |  Responsiveness            |  Search | Categories |
 |---------------------|----------------------|----------------------|
 |![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
--->
+
 
 # Table of Contents
   - [Career](#career)
@@ -51,7 +51,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
     - [Domestic Conferences](#domestic-conferences)
     - [Book Chapters](#book-chapters)
     - [Thesis](#thesis)
-  
+-->
+
 ## Career
 
 
