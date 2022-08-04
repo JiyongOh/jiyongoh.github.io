@@ -95,7 +95,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 
 ### International Conferences
-<!-- - Jiyong Oh, Joon-Goo Lee, Hea-Min Lee, Seung-Woo Nam, Man-Soo Shin, and Sangjoon Choi, "A Person-Following Robot Using Siamese Network-Based RGBD Tracking," 21th International Conference on Control, Automation and Systems (ICCAS 2021), Jeju, Korea, Oct. 12-15, 2021. -->
+- Jiyong Oh, Joon-Goo Lee, Hea-Min Lee, Seung-Woo Nam, Man-Soo Shin, and Sangjoon Choi, "A Person-Following Robot Using Siamese Network-Based RGBD Tracking," [21th International Conference on Control, Automation and Systems (ICCAS 2021)](http://2021.iccas.org/?page_id=962&uid=18&mod=document), Jeju, Korea, Oct. 12-15, 2021.
 - **Jiyong Oh**, Kil-Taek Lim, and Yun-Su Chung, "[TrajNet: An Efficient and Effective Neural Network for Vehicle Trajectory Classification](https://www.scitepress.org/PublicationsDetail.aspx?ID=Rf72zoxRUjs=&t=1)," 10th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2021), Vinenna, Austria, Feb. 5 (4-6), 2021.
 - **Jiyong Oh**, Ki-Seok Kim, Miryong Park, and Sungho Kim, "[A Comparative Study on Camera-Radar Calibration Methods](https://ieeexplore.ieee.org/document/8581329)," 15th International Conference on Control, Automation, Robotics and Vision (ICARCV 2018), Singapore, Nov. 20 (18-21), 2018.
 - Sangkuk Lee, Sung Joon Son, **Jiyong Oh**, and Nojun Kwak, "[Handwritten Music Symbol Classification Using Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7885856)," 2016 International Conference on Information Science and Security (ICISS), Pattaya, Thailand, Dec. 21 (19-22), 2016.
