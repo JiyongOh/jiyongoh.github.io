@@ -14,9 +14,9 @@
 
 Senior Researcher,
 
-Robotics-IT Convergence Research Section,
+Robotics Mobility Research Section,
 
-Daegu-Gyeongbuk Research Center,
+Daegu-Gyeongbuk Research Division,
 
 Electronics and Telecommunications Research Institute (ETRI).
 
@@ -83,6 +83,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 ## Publications
 
 ### International Journals
+- **Jiyong Oh** and Nojun Kwak, "[Discriminative subspace learning using generalized mean](https://www.sciencedirect.com/science/article/pii/S0165168424000409)," Signal Processing, vol. 219, 109421, June 2024.
+- Jieun Lee, Hakjun Lee, and **Jiyong Oh**, "[FusionLoc: Camera-2D LiDAR Fusion Using Multi-Head Self-Attention for End-to-End Serving Robot Relocalization](https://ieeexplore.ieee.org/document/10188840?denied=)," IEEE Access, vol. 11, pp. 75121-75133, 2023.
 - Daewoong Cha, Sohee Jeong, Minwoo Yoo, **Jiyong Oh**, and Dong Seog Han, "[Multi-Input Deep Learning based FMCW Radar Signal Classification](https://www.mdpi.com/2079-9292/10/10/1144)," Electronics 2021, 10(10), 1144.
 - **Jiyong Oh**, Sung Joon Son, Sangkuk Lee, Ji-Won Kwon, and Nojun Kwak, "[Online recognition of handwritten music symbols](https://link.springer.com/article/10.1007/s10032-017-0281-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)," International Journal on Document Analysis and Recognition, vol. 20, issue 2, pp. 79-89, June 2017.
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, **Jiyong Oh**, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "[Team SNU's Control Strategies for Enhancing a Robot's Capability: Lessons from the 2015 DARPA Robotics Challenge Finals](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21678)," Journal of Field Robotics, vol. 34, issue 2, pp. 359-380, March 2017.
