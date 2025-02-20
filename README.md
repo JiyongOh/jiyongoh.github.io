@@ -75,8 +75,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 
 ## Research Interests
-- Visual Object Tracking, Robot Relocalization, 
-- Robot Perception, Machine Learning, Computer Vision and Their Applications
+- Visual Object Tracking, Robot Localization, 
+- Robotic Perception, Machine Learning, Computer Vision and Their Applications
 
 
 
