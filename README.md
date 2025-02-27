@@ -14,7 +14,7 @@
 
 Senior Researcher,
 
-Robotics Mobility Research Section,
+Intelligent Robot System Research Section,
 
 Daegu-Gyeongbuk Research Division,
 
