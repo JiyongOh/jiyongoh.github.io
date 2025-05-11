@@ -83,7 +83,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 ## Publications
 
 ### International Journals
-- **Jiyong Oh**, "[Maximizing Generalized Mean of Trace Ratios for Discriminative Feature Learning](https://www.sciencedirect.com/science/article/pii/S0167865525001679)," Pattern Recognition Letters, vol. 194, pp.26-31, August 2025.
+- **Jiyong Oh**, "[Maximizing generalized mean of trace ratios for discriminative feature learning](https://www.sciencedirect.com/science/article/pii/S0167865525001679)," Pattern Recognition Letters, vol. 194, pp.26-31, August 2025.
 - **Jiyong Oh** and Nojun Kwak, "[Discriminative subspace learning using generalized mean](https://www.sciencedirect.com/science/article/pii/S0165168424000409)," Signal Processing, vol. 219, 109421, June 2024.
 - Jieun Lee, Hakjun Lee, and **Jiyong Oh**, "[FusionLoc: Camera-2D LiDAR Fusion Using Multi-Head Self-Attention for End-to-End Serving Robot Relocalization](https://ieeexplore.ieee.org/document/10188840?denied=)," IEEE Access, vol. 11, pp. 75121-75133, 2023.
 - Daewoong Cha, Sohee Jeong, Minwoo Yoo, **Jiyong Oh**, and Dong Seog Han, "[Multi-Input Deep Learning based FMCW Radar Signal Classification](https://www.mdpi.com/2079-9292/10/10/1144)," Electronics 2021, 10(10), 1144.
