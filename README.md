@@ -83,7 +83,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 ## Publications
 
 ### International Journals
-- Hye-Min Won, Jieun Lee, **Jiyong Oh**, "[Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization](https://arxiv.org/abs/2504.07677)," arXiv:2504.07677.
+- Hye-Min Won, Jieun Lee, and **Jiyong Oh**, "[Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization](https://arxiv.org/abs/2504.07677)," arXiv:2504.07677.
 - **Jiyong Oh**, "[Maximizing generalized mean of trace ratios for discriminative feature learning](https://www.sciencedirect.com/science/article/pii/S0167865525001679)," Pattern Recognition Letters, vol. 194, pp.26-31, August 2025.
 - **Jiyong Oh** and Nojun Kwak, "[Discriminative subspace learning using generalized mean](https://www.sciencedirect.com/science/article/pii/S0165168424000409)," Signal Processing, vol. 219, 109421, June 2024.
 - Jieun Lee, Hakjun Lee, and **Jiyong Oh**, "[FusionLoc: Camera-2D LiDAR Fusion Using Multi-Head Self-Attention for End-to-End Serving Robot Relocalization](https://ieeexplore.ieee.org/document/10188840?denied=)," IEEE Access, vol. 11, pp. 75121-75133, 2023.
