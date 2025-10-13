@@ -20,7 +20,7 @@ Daegu-Gyeongbuk Research Division,
 
 Electronics and Telecommunications Research Institute (ETRI).
 
-e-mail: jiyongoh@etri.re.kr
+e-mail: jiyongoh[at]etri[dot]re[dot]kr
 
 address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Korea.
 
