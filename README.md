@@ -12,7 +12,7 @@
 
 # Jiyong Oh (오지용)
 
-Senior Researcher,
+Principal Researcher,
 
 Intelligent Robot System Research Section,
 
