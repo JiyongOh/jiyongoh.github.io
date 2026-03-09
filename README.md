@@ -57,7 +57,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 
 ### Research
-- 2016.06.01-present, Senior Researcher, ETRI, Korea.
+- 2016.06.01-present, Principal/Senior Researcher, ETRI, Korea.
 - 2015.03.15-2016.05.31, BK Assistant Professor (Research Fellow), Seoul National University, Korea.
 - 2013.09.01-2015.03.14, Post-Doc. (Research Fellow), Seoul National University, Korea.
 - 2013.04.01-2013.08.31, Post-Doc. (Research Fellow), Ajou University, Korea.
