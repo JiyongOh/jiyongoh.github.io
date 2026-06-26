@@ -149,6 +149,9 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - **Jiyong Oh** and Nojun Kwak, "[Robust PCAs and PCA using generalized mean](https://www.springerprofessional.de/en/robust-pcas-and-pca-using-generalized-mean/15303758)," in Advances in Principal Component Analysis Research and Development, Ganesh R. Naik Ed., Springer Singapore, 2018, pp. 71-98.
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, **Jiyong Oh**, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "[Team SNU's Control Strategies for Enhancing Robots Capability: Lessons from the DARPA Robotics Challenge Finals 2015](https://link.springer.com/chapter/10.1007/978-3-319-74666-1_10)," in The DARPA Robotics Challenge Finals: Humanoid Robots To The Rescue, M. Spenko, S. Buerger, and K. Iagnemma Eds., Springer International Publishing, 2018, pp. 347-379.
 
+### Press / Masscom
+- [주요 로보틱스 1분기 매출 수직상승···"현장 효용성 평가 끝났다"](https://www.greened.kr/news/articleView.html?idxno=341204), 녹색경제신문, 2026-05-22
+- ['국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
 
 ### Thesis
 - **Jiyong Oh**, "[Designing a System to Locate the Reference Point of Symphysis Pubis in Axial CT Images](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Designing%20a%20System%20to%20Locate%20the%20Reference%20Point%20of%20Symphysis%20Pubis%20in%20Axial%20CT%20Images&tab=all&search_scope=ALL&sortby=rank&vid=82SNU&lang=ko_KR&mode=simple&fromRedirectFilter=true)," Ph.D. Thesis, Seoul National University, Feb. 2012.
