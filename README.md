@@ -84,6 +84,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 ## Publications
 
 ### International Journals
+- Nakwon Choi, Joon-Goo Lee, Jong Taek Lee, and Jiyong Oh, "UWB-Vision Sensor Fusion for Target Person Localization in Human-Following Robots," under review for publication in International Journal of Control, Automation, and Systems.
 - Hye-Min Won, Jieun Lee, and **Jiyong Oh**, "[Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization](https://www.mdpi.com/2227-7080/13/9/386)," Technologies, 13(9), 386, 2025.
 - **Jiyong Oh**, "[Maximizing generalized mean of trace ratios for discriminative feature learning](https://www.sciencedirect.com/science/article/pii/S0167865525001679)," Pattern Recognition Letters, vol. 194, pp. 26-31, August 2025.
 - **Jiyong Oh** and Nojun Kwak, "[Discriminative subspace learning using generalized mean](https://www.sciencedirect.com/science/article/pii/S0165168424000409)," Signal Processing, vol. 219, 109421, June 2024.
