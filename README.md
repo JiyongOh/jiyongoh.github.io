@@ -151,7 +151,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, **Jiyong Oh**, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "[Team SNU's Control Strategies for Enhancing Robots Capability: Lessons from the DARPA Robotics Challenge Finals 2015](https://link.springer.com/chapter/10.1007/978-3-319-74666-1_10)," in The DARPA Robotics Challenge Finals: Humanoid Robots To The Rescue, M. Spenko, S. Buerger, and K. Iagnemma Eds., Springer International Publishing, 2018, pp. 347-379.
 
 ### Press / Masscom
-- [에스엘·아진산업 앵커기업 참여…경북 로봇산업 밸류체인 구축 시동](https://n.news.naver.com/mnews/article/088/0001011811_, 매일신문, 2026-05-27
+- [에스엘·아진산업 앵커기업 참여…경북 로봇산업 밸류체인 구축 시동](https://n.news.naver.com/mnews/article/088/0001011811), 매일신문, 2026-05-27
 - [주요 로보틱스 1분기 매출 수직상승···"현장 효용성 평가 끝났다"](https://www.greened.kr/news/articleView.html?idxno=341204), 녹색경제신문, 2026-05-22
 - ['국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
 
