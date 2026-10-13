@@ -121,7 +121,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - 최낙원, 이준구, **오지용**, "추종로봇을 위한 UWB-RGB 센서 융합 기반의사용자 위치 추정 방법", 제6회 한국 인공지능 학술대회, 2025. 9. 26 (24-27).
 - 최낙원, 이준구, **오지용**, "추종로봇을 위한 UWB 기반의 사용자 위치 추정 방법 연구", 2025년도 한국통신학회 하계종합학술발표회, 2025. 6. 18 (18-21).
 - 김진우, 이준구, **오지용**, "추종로봇을 위한 RGB 이미지 기반 사용자 위치추정", 제35회 통신정보 합동학술대회 (JCCI 2025), 2025. 4. 25 (23-25).
-- **오지용**, 정유수, 이준구, "2D LiDAR 기반 사용자 추적 데이터셋 구축축", 제5회 한국 인공지능 학술대회, 2024. 9. 25.
+- **오지용**, 정유수, 이준구, "2D LiDAR 기반 사용자 추적 데이터셋 구축", 제5회 한국 인공지능 학술대회, 2024. 9. 25.
 - 이지은, **오지용**, "End-to-End 서빙로봇 위치추정의 불확실성 추정", 제5회 한국 인공지능 학술대회, 2024. 9. 25.
 - **오지용**, 정유수, 이준구, "사용자 추적을 위한 2D LiDAR 데이터 어노테이션 방법", 2024년도 한국통신학회 하계종합학술발표회, 2024. 6. 19.
 - 이준구, 이지은, 원혜민, **오지용**, "추종로봇을 위한 대상 추적 및 중심 추정 방법", 2024년도 한국통신학회 하계종합학술발표회, 2024. 6. 21.
@@ -150,11 +150,14 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - **Jiyong Oh** and Nojun Kwak, "[Robust PCAs and PCA using generalized mean](https://www.springerprofessional.de/en/robust-pcas-and-pca-using-generalized-mean/15303758)," in Advances in Principal Component Analysis Research and Development, Ganesh R. Naik Ed., Springer Singapore, 2018, pp. 71-98.
 - Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, **Jiyong Oh**, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "[Team SNU's Control Strategies for Enhancing Robots Capability: Lessons from the DARPA Robotics Challenge Finals 2015](https://link.springer.com/chapter/10.1007/978-3-319-74666-1_10)," in The DARPA Robotics Challenge Finals: Humanoid Robots To The Rescue, M. Spenko, S. Buerger, and K. Iagnemma Eds., Springer International Publishing, 2018, pp. 347-379.
 
+### Thesis
+- **Jiyong Oh**, "[Designing a System to Locate the Reference Point of Symphysis Pubis in Axial CT Images](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Designing%20a%20System%20to%20Locate%20the%20Reference%20Point%20of%20Symphysis%20Pubis%20in%20Axial%20CT%20Images&tab=all&search_scope=ALL&sortby=rank&vid=82SNU&lang=ko_KR&mode=simple&fromRedirectFilter=true)," Ph.D. Thesis, Seoul National University, Feb. 2012.
+- **오지용**, "[Modified LDA를 사용한 얼굴 정렬 (Face Alignment Using Modified LDA)](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?query=any,contains,Modified%20LDA%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EC%A0%95%EB%A0%AC&vid=82SNU&search_scope=ALL&sortby=rank&tab=all&docid=82SNU_INST21455420540002591&lang=ko_KR&mode=simple&fromRedirectFilter=true)," M.S. Thesis, Seoul National University, Feb. 2006.
+
 ### Press / Masscom
 - [에스엘·아진산업 앵커기업 참여…경북 로봇산업 밸류체인 구축 시동](https://n.news.naver.com/mnews/article/088/0001011811), 매일신문, 2026-05-27
 - [주요 로보틱스 1분기 매출 수직상승···"현장 효용성 평가 끝났다"](https://www.greened.kr/news/articleView.html?idxno=341204), 녹색경제신문, 2026-05-22
 - ['국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
 
-### Thesis
-- **Jiyong Oh**, "[Designing a System to Locate the Reference Point of Symphysis Pubis in Axial CT Images](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Designing%20a%20System%20to%20Locate%20the%20Reference%20Point%20of%20Symphysis%20Pubis%20in%20Axial%20CT%20Images&tab=all&search_scope=ALL&sortby=rank&vid=82SNU&lang=ko_KR&mode=simple&fromRedirectFilter=true)," Ph.D. Thesis, Seoul National University, Feb. 2012.
-- **오지용**, "[Modified LDA를 사용한 얼굴 정렬 (Face Alignment Using Modified LDA)](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?query=any,contains,Modified%20LDA%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EC%A0%95%EB%A0%AC&vid=82SNU&search_scope=ALL&sortby=rank&tab=all&docid=82SNU_INST21455420540002591&lang=ko_KR&mode=simple&fromRedirectFilter=true)," M.S. Thesis, Seoul National University, Feb. 2006.
+
+
