@@ -154,7 +154,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - **Jiyong Oh**, "[Designing a System to Locate the Reference Point of Symphysis Pubis in Axial CT Images](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Designing%20a%20System%20to%20Locate%20the%20Reference%20Point%20of%20Symphysis%20Pubis%20in%20Axial%20CT%20Images&tab=all&search_scope=ALL&sortby=rank&vid=82SNU&lang=ko_KR&mode=simple&fromRedirectFilter=true)," Ph.D. Thesis, Seoul National University, Feb. 2012.
 - **오지용**, "[Modified LDA를 사용한 얼굴 정렬 (Face Alignment Using Modified LDA)](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?query=any,contains,Modified%20LDA%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EC%A0%95%EB%A0%AC&vid=82SNU&search_scope=ALL&sortby=rank&tab=all&docid=82SNU_INST21455420540002591&lang=ko_KR&mode=simple&fromRedirectFilter=true)," M.S. Thesis, Seoul National University, Feb. 2006.
 
-### Press / Masscom
+## Press / Masscom
 - [에스엘·아진산업 앵커기업 참여…경북 로봇산업 밸류체인 구축 시동](https://n.news.naver.com/mnews/article/088/0001011811), 매일신문, 2026-05-27
 - [주요 로보틱스 1분기 매출 수직상승···"현장 효용성 평가 끝났다"](https://www.greened.kr/news/articleView.html?idxno=341204), 녹색경제신문, 2026-05-22
 - ['국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
