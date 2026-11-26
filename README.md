@@ -158,7 +158,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - [2026 대구 미래전략 포럼](https://www.youtube.com/live/5rcp-cJbzDc?si=E-h6lIbNxYtxNQLU), 대구일보, 2026-10-30 (2:00:00~)
 - [에스엘·아진산업 앵커기업 참여…경북 로봇산업 밸류체인 구축 시동](https://n.news.naver.com/mnews/article/088/0001011811), 매일신문, 2026-05-27
 - [주요 로보틱스 1분기 매출 수직상승···"현장 효용성 평가 끝났다"](https://www.greened.kr/news/articleView.html?idxno=341204), 녹색경제신문, 2026-05-22
-- ['국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
+- [국가 임무 중심 R&D 체제로 대전환' ETRI 2026년 시무식](https://www.kukinews.com/article/view/kuk202601020279), 쿠키뉴스, 2026-01-02
 
 
 
